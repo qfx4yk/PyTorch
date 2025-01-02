@@ -1,4 +1,10 @@
-# PyTorch
+# PyTorch Practice
 
-### Tutorial 1: Tensors
-### Tutorial 2: Datasets & DataLoaders
+## Topics included:
+### Tensors
+### Datasets & DataLoaders
+### Transforms
+### Build Model
+### Autograd
+### Optimization
+### Save & Load Model
